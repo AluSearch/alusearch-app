@@ -59,7 +59,7 @@ def main():
         page_title="AluSearch - アルミ合金特性検索データベース",
         page_icon="🔬",
         layout="wide",
-        initial_sidebar_state="auto"
+        initial_sidebar_state="expanded"
     )
 
     # --- SEO と デザイン調整 ---
